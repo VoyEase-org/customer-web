@@ -34132,7 +34132,7 @@ $.aL()
 s=$.bg
 if(s==null)s=$.bg=B.a_
 s=s.dT(0,null,t.lC)
-r=A.bhr("http://172.20.10.2:8080")
+r=A.bhr("https://api.voyease.in:8080")
 q=new A.akq($,new A.XP(A.a([B.In],t.i6)),$,new A.aoJ(51200),!1)
 q.hp$=r
 q.nm$=new A.ahC(A.aD(t.o))
